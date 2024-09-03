@@ -5,12 +5,12 @@ theme:
   name: material
   palette:
     - scheme: default
-      primary: green
+      primary: blue
     #   toggle:
     #     icon: material/weather-sunny
     #     name: Switch to dark mode
     # - scheme: slate
-    #   primary: blue
+    #   primary: green
     #   toggle:
     #     icon: material/weather-night
     #     name: Switch to light mode
@@ -38,4 +38,4 @@ nav:
     - Additional materials: "education/additional_materials.md"
     - Exam: "education/exam.md"
   - Student case: 
-    - ITMO 2023/2024: "student_case/itmo2024_2025/itmo2024_2025.md"
+    - ITMO 2024/2025: "student_case/itmo2024_2025/itmo2024_2025.md"
