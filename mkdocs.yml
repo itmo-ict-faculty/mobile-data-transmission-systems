@@ -1,4 +1,4 @@
-site_name: IP-telephony
+site_name: Mobile data transmission systems
 repo_name: 'itmo-ict-faculty'
 repo_url: 'https://github.com/itmo-ict-faculty/mobile-data-transmission-systems'
 theme:
@@ -10,7 +10,7 @@ theme:
     #     icon: material/weather-sunny
     #     name: Switch to dark mode
     # - scheme: slate
-    #   primary: green
+    #   primary: blue
     #   toggle:
     #     icon: material/weather-night
     #     name: Switch to light mode
