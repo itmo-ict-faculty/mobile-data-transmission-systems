@@ -33,9 +33,9 @@ plugins:
 nav:
   - Introduction: "index.md"
   - Education:
-    - Practice: "education/labs.md"
+    - Practice: "education/practise.md"
     - Lecture: "education/lecture.md"
     - Additional materials: "education/additional_materials.md"
     - Exam: "education/exam.md"
   - Student case: 
-    - ITMO 2023/2024: "student_case/itmo2023_2024/itmo2023_2024.md"
+    - ITMO 2023/2024: "student_case/itmo2024_2025/itmo2024_2025.md"
