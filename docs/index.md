@@ -16,7 +16,7 @@
 Более подробно можно узнать в следующих разделах:
 
 - [Практика](https://itmo-ict-faculty.github.io/mobile-data-transmission-systems/education/practise.md)
-- [Дополнительные материалы](https://itmo-ict-faculty.github.io/ip-telephony/education/additional_materials/)
+- [Дополнительные материалы](https://itmo-ict-faculty.github.io/mobile-data-transmission-systems/education/additional_materials/)
 
 ## Методы оценивания
 - Для получения оценки 3 необходимо набрать не менее 60% во всех лабораторных работах и зачете. Среднее значение должно быть между 60 и 75 процентами. 
