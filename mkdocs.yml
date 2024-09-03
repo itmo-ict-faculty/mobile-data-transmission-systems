@@ -1,4 +1,4 @@
-site_name: Mobile data transmission systems
+site_name: IP-telephony
 repo_name: 'itmo-ict-faculty'
 repo_url: 'https://github.com/itmo-ict-faculty/mobile-data-transmission-systems'
 theme:
@@ -33,7 +33,7 @@ plugins:
 nav:
   - Introduction: "index.md"
   - Education:
-    - Practice: "education/labs.md"
+    - Labs: "education/labs.md"
     - Lecture: "education/lecture.md"
     - Additional materials: "education/additional_materials.md"
     - Exam: "education/exam.md"
