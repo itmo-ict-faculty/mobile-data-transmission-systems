@@ -33,7 +33,7 @@ plugins:
 nav:
   - Introduction: "index.md"
   - Education:
-    - Labs: "education/labs.md"
+    - Practice: "education/labs.md"
     - Lecture: "education/lecture.md"
     - Additional materials: "education/additional_materials.md"
     - Exam: "education/exam.md"
