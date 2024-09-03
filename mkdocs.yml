@@ -1,6 +1,6 @@
 site_name: IP-telephony
 repo_name: 'itmo-ict-faculty'
-repo_url: 'https://mobile-data-transmission-systems'
+repo_url: 'https://github.com/itmo-ict-faculty/mobile-data-transmission-systems'
 theme:
   name: material
   palette:
