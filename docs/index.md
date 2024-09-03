@@ -15,7 +15,6 @@
 
 Более подробно можно узнать в следующих разделах:
 
-- [Практики](https://itmo-ict-faculty.github.io/ip-telephony/education/lecture)
 - [Практика](https://itmo-ict-faculty.github.io/mobile-data-transmission-systems/education/practise.md)
 - [Дополнительные материалы](https://itmo-ict-faculty.github.io/ip-telephony/education/additional_materials/)
 
@@ -28,6 +27,3 @@
 В данном репозитории также находятся проекты студентов, показавшиеся преподавателям наиболее интересными. В них собраны статьи, разработки и исследования которые могут помочь вам в изучении данной учебной дисциплины.
 
 - [ITMO 2024/2025](https://itmo-ict-faculty.github.io/mobile-data-transmission-systems/student_case/itmo2024_2025/itmo2024_2025.md)
-
-## Как стать контрибьютером?
-Если вы нашли какую-то ошибку или решили добавить интересные материалы в данный репозиторий, то просьба обратить внимание на инструкцию [тут](https://github.com/itmo-ict-faculty/ip-telephony/blob main/README.md)
